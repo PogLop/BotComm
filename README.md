@@ -1,4 +1,5 @@
 # Discord bot communication tool
+###### For some reason .exe file doesnt worknig, so wait until  i fix it
 Tool for connecting to Discord bot.
 
 ## How to use
